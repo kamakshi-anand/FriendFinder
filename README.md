@@ -13,7 +13,7 @@ Friend Finder is deployed to Heroku. Please check it out here.
 Installation
 To install the application follow the instructions below:
 
-git clone git@github.com:angrbrd/friend-finder.git
+https://github.com/kamakshi-anand/FriendFinder
 cd friend-finder
 npm install
 Running Locally
@@ -23,4 +23,4 @@ export PORT=3000
 After the PORT environment variable has been set, run the Node.js application with the command below.
 
 node server.js
-The application will now be running locally on PORT, in this case that is port 3030. You can then access it locally from your browser at the URL localhost:PORT, in this case localhost:3000.
+The application will now be running locally on PORT, in this case that is port 3000. You can then access it locally from your browser at the URL localhost:PORT, in this case localhost:3000.
